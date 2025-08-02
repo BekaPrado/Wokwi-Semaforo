@@ -1,4 +1,4 @@
-#  ­­­­­ㅤㅤㅤㅤ­­­­­­­­ 🚦Simulador de Semáforo com ESP32 e Python🚦
+#  ­­­­­ㅤㅤ­­🚦Simulador de Semáforo com ESP32 e Python🚦
 <div align="center"><br>
   <img align="center" alt="Beka-Js" height="300" width="500" src="https://github.com/user-attachments/assets/a1d0c0cc-b136-43fb-83cd-75c1eea68f1a">
 </div>
